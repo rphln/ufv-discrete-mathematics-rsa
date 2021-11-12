@@ -1,0 +1,2 @@
+Public:  python rsa.py --n 2070279697 --x 23683
+Private: python rsa.py --n 2070279697 --x 1085225327
